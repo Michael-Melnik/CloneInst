@@ -5,7 +5,7 @@
 
 ### Установка
 ```
-git  clone https://github.com/Michael-Melnik/php-project-9.git
+git  clone git@github.com:Michael-Melnik/CloneInst.git
 ```
 ```
 cd php-project-9
