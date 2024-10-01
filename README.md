@@ -8,7 +8,7 @@
 git  clone git@github.com:Michael-Melnik/CloneInst.git
 ```
 ```
-cd php-project-9
+cd CloneInst
 ```
 ```
 make setup
